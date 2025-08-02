@@ -1,0 +1,249 @@
+date,subject,student_name,registration_number,email,attendance_status
+2024-11-07,python,khare,23mca1055,ritikkhare45@gmail.com,Present
+2024-11-09,python,ritik,23MCA1056,khareji1jan@gmail.com,Present
+2024-11-10,python,khare,23mca1055,ritikkhare45@gmail.com,Present
+2024-11-10,python,ritik,23MCA1056,khareji1jan@gmail.com,Present
+2024-11-10,python,Joel J Chalappuram,24MCA1061,joel.j.24mca1061@university.com,Absent
+2024-11-10,python,Simran Roy,24MCA1044,simran.roy.24mca1044@university.com,Present
+2024-11-10,python,DHANUSHYA,24MCA1070,dhanushya.24mca1070@university.com,Present
+2024-11-10,python,Taslim Ahmad,24MCA1026,taslim.ahmad.24mca1026@university.com,Present
+2024-11-10,python,Krishna Singh Rathore,24MCA1016,krishna.rathore.24mca1016@university.com,Present
+2024-11-10,python,RAJKUMAR C,24MCA1050,rajkumar.c.24mca1050@university.com,Present
+2024-11-10,python,Shubham Kumar,24MCA1009,shubham.kumar.24mca1009@university.com,Present
+2024-11-10,python,Vishwas Kumar,24MCA1001,vishwas.kumar.24mca1001@university.com,Present
+2024-11-10,python,Dhruv Tiwari,24MCA1021,dhruv.tiwari.24mca1021@university.com,Absent
+2024-11-10,python,E. Gokulnath,24MCA1031,gokulnath.e.24mca1031@university.com,Present
+2024-11-10,python,Shanuwaz Shaikh,24MCA1047,shanuwaz.shaikh.24mca1047@university.com,Present
+2024-11-10,python,Mitul Pipaliya,24MCA1058,mitul.pipaliya.24mca1058@university.com,Present
+2024-11-10,python,Yogendra,24MCA1062,yogendra.24mca1062@university.com,Present
+2024-11-10,python,Vivek Samadhiya,24MCA1008,vivek.samadhiya.24mca1008@university.com,Absent
+2024-11-10,python,Man,24MCA1024,man.24mca1024@university.com,Present
+2024-11-10,python,Ashish Kumar,24MCA1012,ashish.kumar.24mca1012@university.com,Present
+2024-11-10,python,Piyush Kumar,24MCA1039,piyush.kumar.24mca1039@university.com,Present
+2024-11-10,python,Sanskar Kumar,24MCA1066,sanskar.kumar.24mca1066@university.com,Present
+2024-11-10,python,Kiran Behera,24MCA1059,kiran.behera.24mca1059@university.com,Present
+2024-11-10,python,Aakansha Singh,24MCA1037,aakansha.singh.24mca1037@university.com,Present
+2024-11-10,python,Nishant Pandey,24MCA1014,nishant.pandey.24mca1014@university.com,Absent
+2024-11-10,python,S Arya,24MCA1049,s.arya.24mca1049@university.com,Present
+2024-11-10,python,Priya Gupta,24MCA1034,priya.gupta.24mca1034@university.com,Present
+2024-11-10,python,Anand Kumar,24MCA1051,anand.kumar.24mca1051@university.com,Present
+2024-11-10,python,Jeffrey Thomas,24MCA1068,jeffrey.thomas.24mca1068@university.com,Absent
+2024-11-10,python,Vaishnavi Naidu,24MCA1025,vaishnavi.naidu.24mca1025@university.com,Absent
+2024-11-10,python,Vaibhav Joshi,24MCA1027,vaibhav.joshi.24mca1027@university.com,Absent
+2024-11-10,python,Bhargava Ram,24MCA1045,bhargava.ram.24mca1045@university.com,Absent
+2024-11-10,python,Ashutosh Rana,24MCA1048,ashutosh.rana.24mca1048@university.com,Absent
+2024-11-10,python,Nikhil Sharma,24MCA1004,nikhil.sharma.24mca1004@university.com,Absent
+2024-11-10,python,Aasheesh Daniel Joseph,24MCA1036,aasheesh.joseph.24mca1036@university.com,Absent
+2024-11-10,python,Shubham Valecha,24MCA1005,shubham.valecha.24mca1005@university.com,Absent
+2024-11-10,python,Rajdeep Aich,24MCA1054,rajdeep.aich.24mca1054@university.com,Absent
+2024-11-10,python,Karthik Reddy,24MCA1071,karthik.reddy.24mca1071@university.com,Absent
+2024-11-10,python,Sarah Khan,24MCA1032,sarah.khan.24mca1032@university.com,Absent
+2024-11-10,python,Ajay Prasad,24MCA1010,ajay.prasad.24mca1010@university.com,Absent
+2024-11-10,python,Shreya Mehta,24MCA1043,shreya.mehta.24mca1043@university.com,Present
+2024-11-10,python,Rahul Sharma,24MCA1020,rahul.sharma.24mca1020@university.com,Absent
+2024-11-10,python,Sandeep Jain,24MCA1053,sandeep.jain.24mca1053@university.com,Absent
+2024-11-10,python,Meenakshi Iyer,24MCA1067,meenakshi.iyer.24mca1067@university.com,Absent
+2024-11-10,python,Varun Chauhan,24MCA1033,varun.chauhan.24mca1033@university.com,Absent
+2024-11-10,python,Preeti Sharma,24MCA1040,preeti.sharma.24mca1040@university.com,Absent
+2024-11-10,python,Kunal Kapoor,24MCA1072,kunal.kapoor.24mca1072@university.com,Absent
+2024-11-10,python,Sneha Dubey,24MCA1042,sneha.dubey.24mca1042@university.com,Absent
+2024-11-10,python,Aditya Singh,24MCA1015,aditya.singh.24mca1015@university.com,Absent
+2024-11-10,python,Anjali Pathak,24MCA1060,anjali.pathak.24mca1060@university.com,Absent
+2024-11-10,python,Vinay Patel,24MCA1035,vinay.patel.24mca1035@university.com,Absent
+2024-11-10,python,Mohit Saini,24MCA1055,mohit.saini.24mca1055@university.com,Absent
+2024-11-10,python,Neha Yadav,24MCA1030,neha.yadav.24mca1030@university.com,Absent
+2024-11-10,python,Ramesh Pillai,24MCA1063,ramesh.pillai.24mca1063@university.com,Absent
+2024-11-10,python,Nisha Gupta,24MCA1057,nisha.gupta.24mca1057@university.com,Absent
+2024-11-10,python,Tushar Verma,24MCA1002,tushar.verma.24mca1002@university.com,Absent
+2024-11-10,python,Priyanka Sharma,24MCA1073,priyanka.sharma.24mca1073@university.com,Absent
+2024-11-10,python,Lokesh Kumar,24MCA1074,lokesh.kumar.24mca1074@university.com,Absent
+2024-11-10,python,Kavita Patel,24MCA1006,kavita.patel.24mca1006@university.com,Absent
+2024-11-10,python,Rajesh Rao,24MCA1064,rajesh.rao.24mca1064@university.com,Absent
+2024-11-10,python,Smriti Mishra,24MCA1019,smriti.mishra.24mca1019@university.com,Absent
+2024-11-10,python,Anil Bansal,24MCA1028,anil.bansal.24mca1028@university.com,Absent
+2024-11-10,python,Arjun Pratap Singh,24MCA1056,arjun.singh.24mca1056@university.com,Absent
+2024-11-10,python,Shruti Verma,24MCA1029,shruti.verma.24mca1029@university.com,Absent
+2024-11-13,python,khare,23MCA1055,khareji1jan@gmail.com,Present
+2024-11-13,python,Joel J Chalappuram,24MCA1061,joel.j.24mca1061@university.com,Absent
+2024-11-13,python,ritik,23MCA1056,ritikkhare45@gmail.com,Absent
+2024-11-13,python,Simran Roy,24MCA1044,simran.roy.24mca1044@university.com,Absent
+2024-11-13,python,DHANUSHYA,24MCA1070,dhanushya.24mca1070@university.com,Absent
+2024-11-13,python,Taslim Ahmad,24MCA1026,taslim.ahmad.24mca1026@university.com,Absent
+2024-11-13,python,Krishna Singh Rathore,24MCA1016,krishna.rathore.24mca1016@university.com,Absent
+2024-11-13,python,RAJKUMAR C,24MCA1050,rajkumar.c.24mca1050@university.com,Absent
+2024-11-13,python,Shubham Kumar,24MCA1009,shubham.kumar.24mca1009@university.com,Absent
+2024-11-13,python,Vishwas Kumar,24MCA1001,vishwas.kumar.24mca1001@university.com,Absent
+2024-11-13,python,Dhruv Tiwari,24MCA1021,dhruv.tiwari.24mca1021@university.com,Absent
+2024-11-13,python,E. Gokulnath,24MCA1031,gokulnath.e.24mca1031@university.com,Absent
+2024-11-13,python,Shanuwaz Shaikh,24MCA1047,shanuwaz.shaikh.24mca1047@university.com,Absent
+2024-11-13,python,Mitul Pipaliya,24MCA1058,mitul.pipaliya.24mca1058@university.com,Absent
+2024-11-13,python,Yogendra,24MCA1062,yogendra.24mca1062@university.com,Absent
+2024-11-13,python,Vivek Samadhiya,24MCA1008,vivek.samadhiya.24mca1008@university.com,Absent
+2024-11-13,python,Man,24MCA1024,man.24mca1024@university.com,Absent
+2024-11-13,python,Ashish Kumar,24MCA1012,ashish.kumar.24mca1012@university.com,Absent
+2024-11-13,python,Piyush Kumar,24MCA1039,piyush.kumar.24mca1039@university.com,Absent
+2024-11-13,python,Sanskar Kumar,24MCA1066,sanskar.kumar.24mca1066@university.com,Absent
+2024-11-13,python,Kiran Behera,24MCA1059,kiran.behera.24mca1059@university.com,Absent
+2024-11-13,python,Aakansha Singh,24MCA1037,aakansha.singh.24mca1037@university.com,Absent
+2024-11-13,python,Nishant Pandey,24MCA1014,nishant.pandey.24mca1014@university.com,Absent
+2024-11-13,python,S Arya,24MCA1049,s.arya.24mca1049@university.com,Absent
+2024-11-13,python,Priya Gupta,24MCA1034,priya.gupta.24mca1034@university.com,Absent
+2024-11-13,python,Anand Kumar,24MCA1051,anand.kumar.24mca1051@university.com,Absent
+2024-11-13,python,Jeffrey Thomas,24MCA1068,jeffrey.thomas.24mca1068@university.com,Absent
+2024-11-13,python,Vaishnavi Naidu,24MCA1025,vaishnavi.naidu.24mca1025@university.com,Absent
+2024-11-13,python,Vaibhav Joshi,24MCA1027,vaibhav.joshi.24mca1027@university.com,Absent
+2024-11-13,python,Bhargava Ram,24MCA1045,bhargava.ram.24mca1045@university.com,Absent
+2024-11-13,python,Ashutosh Rana,24MCA1048,ashutosh.rana.24mca1048@university.com,Absent
+2024-11-13,python,Nikhil Sharma,24MCA1004,nikhil.sharma.24mca1004@university.com,Absent
+2024-11-13,python,Aasheesh Daniel Joseph,24MCA1036,aasheesh.joseph.24mca1036@university.com,Absent
+2024-11-13,python,Shubham Valecha,24MCA1005,shubham.valecha.24mca1005@university.com,Absent
+2024-11-13,python,Rajdeep Aich,24MCA1054,rajdeep.aich.24mca1054@university.com,Absent
+2024-11-13,python,Karthik Reddy,24MCA1071,karthik.reddy.24mca1071@university.com,Absent
+2024-11-13,python,Sarah Khan,24MCA1032,sarah.khan.24mca1032@university.com,Absent
+2024-11-13,python,Ajay Prasad,24MCA1010,ajay.prasad.24mca1010@university.com,Absent
+2024-11-13,python,Shreya Mehta,24MCA1043,shreya.mehta.24mca1043@university.com,Absent
+2024-11-13,python,Rahul Sharma,24MCA1020,rahul.sharma.24mca1020@university.com,Absent
+2024-11-13,python,Sandeep Jain,24MCA1053,sandeep.jain.24mca1053@university.com,Absent
+2024-11-13,python,Meenakshi Iyer,24MCA1067,meenakshi.iyer.24mca1067@university.com,Absent
+2024-11-13,python,Varun Chauhan,24MCA1033,varun.chauhan.24mca1033@university.com,Absent
+2024-11-13,python,Preeti Sharma,24MCA1040,preeti.sharma.24mca1040@university.com,Absent
+2024-11-13,python,Kunal Kapoor,24MCA1072,kunal.kapoor.24mca1072@university.com,Absent
+2024-11-13,python,Sneha Dubey,24MCA1042,sneha.dubey.24mca1042@university.com,Absent
+2024-11-13,python,Aditya Singh,24MCA1015,aditya.singh.24mca1015@university.com,Absent
+2024-11-13,python,Anjali Pathak,24MCA1060,anjali.pathak.24mca1060@university.com,Absent
+2024-11-13,python,Vinay Patel,24MCA1035,vinay.patel.24mca1035@university.com,Absent
+2024-11-13,python,Mohit Saini,24MCA1055,mohit.saini.24mca1055@university.com,Absent
+2024-11-13,python,Neha Yadav,24MCA1030,neha.yadav.24mca1030@university.com,Absent
+2024-11-13,python,Ramesh Pillai,24MCA1063,ramesh.pillai.24mca1063@university.com,Absent
+2024-11-13,python,Nisha Gupta,24MCA1057,nisha.gupta.24mca1057@university.com,Absent
+2024-11-13,python,Tushar Verma,24MCA1002,tushar.verma.24mca1002@university.com,Absent
+2024-11-13,python,Priyanka Sharma,24MCA1073,priyanka.sharma.24mca1073@university.com,Absent
+2024-11-13,python,Lokesh Kumar,24MCA1074,lokesh.kumar.24mca1074@university.com,Absent
+2024-11-13,python,Kavita Patel,24MCA1006,kavita.patel.24mca1006@university.com,Absent
+2024-11-13,python,Rajesh Rao,24MCA1064,rajesh.rao.24mca1064@university.com,Absent
+2024-11-13,python,Smriti Mishra,24MCA1019,smriti.mishra.24mca1019@university.com,Absent
+2024-11-13,python,Anil Bansal,24MCA1028,anil.bansal.24mca1028@university.com,Absent
+2024-11-13,python,Arjun Pratap Singh,24MCA1056,arjun.singh.24mca1056@university.com,Absent
+2024-11-13,python,Shruti Verma,24MCA1029,shruti.verma.24mca1029@university.com,Absent
+2024-11-13,python,ranu,23MCA10000,ritikkhare012000@gmail.com,Absent
+2024-11-15,python,khare,23MCA1056,khareji1jan@gmail.com,Present
+2024-11-15,python,Joel J Chalappuram,24MCA1061,joel.j.24mca1061@university.com,Absent
+2024-11-15,python,Simran Roy,24MCA1044,simran.roy.24mca1044@university.com,Absent
+2024-11-15,python,DHANUSHYA,24MCA1070,dhanushya.24mca1070@university.com,Absent
+2024-11-15,python,Taslim Ahmad,24MCA1026,taslim.ahmad.24mca1026@university.com,Absent
+2024-11-15,python,Krishna Singh Rathore,24MCA1016,krishna.rathore.24mca1016@university.com,Absent
+2024-11-15,python,RAJKUMAR C,24MCA1050,rajkumar.c.24mca1050@university.com,Absent
+2024-11-15,python,Shubham Kumar,24MCA1009,shubham.kumar.24mca1009@university.com,Absent
+2024-11-15,python,Vishwas Kumar,24MCA1001,vishwas.kumar.24mca1001@university.com,Absent
+2024-11-15,python,Dhruv Tiwari,24MCA1021,dhruv.tiwari.24mca1021@university.com,Absent
+2024-11-15,python,E. Gokulnath,24MCA1031,gokulnath.e.24mca1031@university.com,Absent
+2024-11-15,python,Shanuwaz Shaikh,24MCA1047,shanuwaz.shaikh.24mca1047@university.com,Absent
+2024-11-15,python,Mitul Pipaliya,24MCA1058,mitul.pipaliya.24mca1058@university.com,Absent
+2024-11-15,python,Yogendra,24MCA1062,yogendra.24mca1062@university.com,Absent
+2024-11-15,python,Vivek Samadhiya,24MCA1008,vivek.samadhiya.24mca1008@university.com,Absent
+2024-11-15,python,Man,24MCA1024,man.24mca1024@university.com,Absent
+2024-11-15,python,Ashish Kumar,24MCA1012,ashish.kumar.24mca1012@university.com,Absent
+2024-11-15,python,Piyush Kumar,24MCA1039,piyush.kumar.24mca1039@university.com,Absent
+2024-11-15,python,Sanskar Kumar,24MCA1066,sanskar.kumar.24mca1066@university.com,Absent
+2024-11-15,python,Kiran Behera,24MCA1059,kiran.behera.24mca1059@university.com,Absent
+2024-11-15,python,Aakansha Singh,24MCA1037,aakansha.singh.24mca1037@university.com,Absent
+2024-11-15,python,Nishant Pandey,24MCA1014,nishant.pandey.24mca1014@university.com,Absent
+2024-11-15,python,S Arya,24MCA1049,s.arya.24mca1049@university.com,Absent
+2024-11-15,python,Priya Gupta,24MCA1034,priya.gupta.24mca1034@university.com,Absent
+2024-11-15,python,Anand Kumar,24MCA1051,anand.kumar.24mca1051@university.com,Absent
+2024-11-15,python,Jeffrey Thomas,24MCA1068,jeffrey.thomas.24mca1068@university.com,Absent
+2024-11-15,python,Vaishnavi Naidu,24MCA1025,vaishnavi.naidu.24mca1025@university.com,Absent
+2024-11-15,python,Vaibhav Joshi,24MCA1027,vaibhav.joshi.24mca1027@university.com,Absent
+2024-11-15,python,Bhargava Ram,24MCA1045,bhargava.ram.24mca1045@university.com,Absent
+2024-11-15,python,Ashutosh Rana,24MCA1048,ashutosh.rana.24mca1048@university.com,Absent
+2024-11-15,python,Nikhil Sharma,24MCA1004,nikhil.sharma.24mca1004@university.com,Absent
+2024-11-15,python,Aasheesh Daniel Joseph,24MCA1036,aasheesh.joseph.24mca1036@university.com,Absent
+2024-11-15,python,Shubham Valecha,24MCA1005,shubham.valecha.24mca1005@university.com,Absent
+2024-11-15,python,Rajdeep Aich,24MCA1054,rajdeep.aich.24mca1054@university.com,Absent
+2024-11-15,python,Karthik Reddy,24MCA1071,karthik.reddy.24mca1071@university.com,Absent
+2024-11-15,python,Sarah Khan,24MCA1032,sarah.khan.24mca1032@university.com,Absent
+2024-11-15,python,Ajay Prasad,24MCA1010,ajay.prasad.24mca1010@university.com,Absent
+2024-11-15,python,Shreya Mehta,24MCA1043,shreya.mehta.24mca1043@university.com,Absent
+2024-11-15,python,Rahul Sharma,24MCA1020,rahul.sharma.24mca1020@university.com,Absent
+2024-11-15,python,Sandeep Jain,24MCA1053,sandeep.jain.24mca1053@university.com,Absent
+2024-11-15,python,Meenakshi Iyer,24MCA1067,meenakshi.iyer.24mca1067@university.com,Absent
+2024-11-15,python,Varun Chauhan,24MCA1033,varun.chauhan.24mca1033@university.com,Absent
+2024-11-15,python,Preeti Sharma,24MCA1040,preeti.sharma.24mca1040@university.com,Absent
+2024-11-15,python,Kunal Kapoor,24MCA1072,kunal.kapoor.24mca1072@university.com,Absent
+2024-11-15,python,Sneha Dubey,24MCA1042,sneha.dubey.24mca1042@university.com,Absent
+2024-11-15,python,Aditya Singh,24MCA1015,aditya.singh.24mca1015@university.com,Absent
+2024-11-15,python,Anjali Pathak,24MCA1060,anjali.pathak.24mca1060@university.com,Absent
+2024-11-15,python,Vinay Patel,24MCA1035,vinay.patel.24mca1035@university.com,Absent
+2024-11-15,python,Mohit Saini,24MCA1055,mohit.saini.24mca1055@university.com,Absent
+2024-11-15,python,Neha Yadav,24MCA1030,neha.yadav.24mca1030@university.com,Absent
+2024-11-15,python,Ramesh Pillai,24MCA1063,ramesh.pillai.24mca1063@university.com,Absent
+2024-11-15,python,Nisha Gupta,24MCA1057,nisha.gupta.24mca1057@university.com,Absent
+2024-11-15,python,Tushar Verma,24MCA1002,tushar.verma.24mca1002@university.com,Absent
+2024-11-15,python,Priyanka Sharma,24MCA1073,priyanka.sharma.24mca1073@university.com,Absent
+2024-11-15,python,Lokesh Kumar,24MCA1074,lokesh.kumar.24mca1074@university.com,Absent
+2024-11-15,python,Kavita Patel,24MCA1006,kavita.patel.24mca1006@university.com,Absent
+2024-11-15,python,Rajesh Rao,24MCA1064,rajesh.rao.24mca1064@university.com,Absent
+2024-11-15,python,Smriti Mishra,24MCA1019,smriti.mishra.24mca1019@university.com,Absent
+2024-11-15,python,Anil Bansal,24MCA1028,anil.bansal.24mca1028@university.com,Absent
+2024-11-15,python,Arjun Pratap Singh,24MCA1056,arjun.singh.24mca1056@university.com,Absent
+2024-11-15,python,Shruti Verma,24MCA1029,shruti.verma.24mca1029@university.com,Absent
+2024-11-15,python,ranu,23MCA10000,ritikkhare012000@gmail.com,Absent
+2024-11-25,python,Hrithik Roshan,24mca1026,ebsveikg@college.edu,Present
+2024-11-25,python,Henry Cavill,24mca1025,afhngvup@example.com,Present
+2024-11-25,python,Ashish kumar,24mca1010,adzzpwjv@student.org,Present
+2024-11-25,python,Elizabeth Olsen,24mca1023,sfjptgjb@student.org,Present
+2024-11-25,python,Jeffrey Thomas,24mca1028,fmmbawve@student.org,Present
+2024-11-25,python,Shubham Kumar,24mca1052,ahavzdkd@college.edu,Present
+2024-11-25,python,Krishna Singh Rathore,24mca1033,xndlhwsh@example.com,Present
+2024-11-25,python,Vaibhav joshi,24mca1057,imlrtdlo@student.org,Present
+2024-11-25,python,Nikhil Sharma,24mca1040,dmjowvoe@example.com,Present
+2024-11-25,python,Ellen Degeneres,24mca1024,qjchnwfg@college.edu,Present
+2024-11-25,python,Kiran behera,24mca1032,kxkwzjvl@student.org,Present
+2024-11-25,python,Ashutosh Rana,24mca1011,axuajpzb@college.edu,Present
+2024-11-25,python,Piyush Kumar,24mca1042,zgoufzlg@college.edu,Present
+2024-11-25,python,Natalie Portman,24mca1039,jqpiyxpa@college.edu,Present
+2024-11-25,python,Alia Bhatt,24mca1005,nfhsoqzr@example.com,Present
+2024-11-25,python,Simran Roy,24mca1054,ztwfslfu@college.edu,Present
+2024-11-25,python,Margot Robbie,24mca1036,ghnwsekj@college.edu,Present
+2024-11-25,python,S Arya,24mca1049,tlfluurj@example.com,Present
+2024-11-25,python,Shubham Valecha,24mca1053,qczyvzqc@college.edu,Present
+2024-11-25,python,Dwayne Johnson,24mca1021,ebqnlqzm@student.org,Present
+2024-11-25,python,Robert Downey Jr,24mca1047,spspnumn@student.org,Present
+2024-11-25,python,Tom Cruise,24mca1056,vfrsampz@student.org,Present
+2024-11-25,python,Camila Cabello,24mca1015,jjwvkigj@example.com,Present
+2024-11-25,python,Lisa Kudrow,24mca1034,tnokputi@example.com,Present
+2024-11-25,python,E. Gokulnath,24mca1022,fnyjinkw@student.org,Present
+2024-11-25,python,Sanskar kumar,24mca1050,ejwitmli@example.com,Present
+2024-11-25,python,Andy Samberg,24mca1008,athwqvja@example.com,Present
+2024-11-25,python,Taslim Ahmad,24mca1055,eqbuqsek@example.com,Present
+2024-11-25,python,Claire Holt,24mca1017,lxbvwkfa@example.com,Present
+2024-11-25,python,Brad Pitt,24mca1014,popybnjy@college.edu,Present
+2024-11-25,python,Priya Gupta,24mca1043,pzznbqro@college.edu,Present
+2024-11-25,python,Aakansha Singh,24mca1001,lvsqkxvi@example.com,Present
+2024-11-25,python,Charlize Theron,24mca1016,ukxqkqhh@example.com,Present
+2024-11-25,python,Bhargava Ram,24mca1012,rpwbxiqa@example.com,Present
+2024-11-25,python,Akshay Kumar,24mca1003,hafupopg@student.org,Present
+2024-11-25,python,Alexandra Daddario,24mca1004,heieofgg@example.com,Present
+2024-11-25,python,Roger Federer,24mca1048,variqlhr@student.org,Present
+2024-11-25,python,DHANUSHYA,24mca1019,rqcrdpnc@student.org,Present
+2024-11-25,python,Mitul Pipaliya,24mca1038,wbiwxreh@college.edu,Present
+2024-11-25,python,Shanuwaz Shaikh,24mca1051,pltoqmce@college.edu,Present
+2024-11-25,python,Vijay Deverakonda,24mca1059,zdtyqpoi@student.org,Present
+2024-11-25,python,RAJKUMAR C,24mca1046,xsubetmr@college.edu,Present
+2024-11-25,python,Anushka Sharma,24mca1009,oumydnwh@college.edu,Present
+2024-11-25,python,Priyanka Chopra,24mca1044,ezmqswjh@student.org,Present
+2024-11-25,python,Kashyap,24mca1031,kgjnhanj@college.edu,Present
+2024-11-25,python,Nishant pandey,24mca1041,ftsctrzg@college.edu,Present
+2024-11-25,python,Courtney Cox,24mca1018,wvuovdkr@student.org,Present
+2024-11-25,python,Hugh Jackman,24mca1027,qirmhotu@example.com,Present
+2024-11-25,python,Billie Eilish,24mca1013,ltgnlgtm@example.com,Present
+2024-11-25,python,Vaishnavi Naidu,24mca1058,zsyujscr@college.edu,Present
+2024-11-25,python,Yogendra,24mca1063,unjurulg@student.org,Present
+2024-11-25,python,Marmik,24mca1037,kgwzvrnx@student.org,Present
+2024-11-25,python,Dhruv Tiwari,24mca1020,yiweehqr@example.com,Present
+2024-11-25,python,Aasheesh Daniel Joseph,24mca1002,wnygaazn@example.com,Present
+2024-11-25,python,Jessica Alba,24mca1029,yzymhobp@college.edu,Present
+2024-11-25,python,Vivek Samadhiya,24mca1062,xoqskivx@college.edu,Present
+2024-11-25,python,Amitabh Bachchan,24mca1006,mbzcyqni@example.com,Present
+2024-11-25,python,Man,24mca1035,zjpxtbmq@college.edu,Present
+2024-11-25,python,Anand Kumar,24mca1007,ohxksbqq@example.com,Present
